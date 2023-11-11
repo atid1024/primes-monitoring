@@ -24,10 +24,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://clove1024.github.io/upptime)
+[**Visit our status website →**](https://atid1024.github.io/primes-monitoring)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [clove1024](https://clove1024.github.io/upptime)
+- Code: [MIT](./LICENSE) © [clove1024](https://atid1024.github.io/primes-monitoring)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
