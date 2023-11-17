@@ -4,9 +4,9 @@
     "url": "https://primes-mes.handymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/primes-mes.handymes.com.ico",
     "slug": "primes-mes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 802,
     "timeMonth": 802,
     "timeYear": 802,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "primes-cmms",
     "url": "https://primes-cmms.handymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/primes-cmms.handymes.com.ico",
     "slug": "primes-cmms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 848,
     "timeMonth": 848,
     "timeYear": 848,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "primes-mms",
     "url": "https://primes-mms.handymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/primes-mms.handymes.com.ico",
     "slug": "primes-mms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 799,
     "timeMonth": 799,
     "timeYear": 799,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "primes-qms",
     "url": "https://primes-qms.handymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/primes-qms.handymes.com.ico",
     "slug": "primes-qms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,14 +75,16 @@
     "timeWeek": 787,
     "timeMonth": 787,
     "timeYear": 787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   },
   {
     "name": "primes-pop",
     "url": "https://primes-pop.handymes.com",
     "icon": "https://icons.duckduckgo.com/ip3/primes-pop.handymes.com.ico",
     "slug": "primes-pop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 779,
     "timeMonth": 779,
     "timeYear": 779,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-17": 0
+    }
   }
 ]
