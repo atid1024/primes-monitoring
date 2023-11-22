@@ -13,6 +13,16 @@ sites:
     url: https://primes-qms.handymes.com
   - name: primes-pop
     url: https://primes-pop.handymes.com
+  - name: mes-frontend
+    url: http://mes.handymes.com/
+  - name: mes-sales
+    url: http://mes.handymes.com/sales
+  - name: mes-production
+    url: http://mes.handymes.com/productions
+  - name: mes-inventory
+    url: http://mes.handymes.com/inventories
+  - name: mes-customer
+    url: http://mes.handymes.com/customers
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
