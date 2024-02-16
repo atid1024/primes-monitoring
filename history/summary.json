@@ -104,19 +104,19 @@
     "url": "http://mes.handymes.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mes.handymes.com.ico",
     "slug": "mes-frontend",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 392,
     "timeDay": 381,
     "timeWeek": 415,
     "timeMonth": 405,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2024-02-16": 15
+      "2024-02-16": 0
     }
   },
   {
@@ -125,19 +125,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mes.handymes.com.ico",
     "slug": "mes-sales",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 177,
     "timeDay": 182,
     "timeWeek": 183,
     "timeMonth": 179,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2024-02-16": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mes-production",
@@ -145,19 +143,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mes.handymes.com.ico",
     "slug": "mes-production",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 184,
     "timeWeek": 186,
     "timeMonth": 183,
     "timeYear": 182,
-    "dailyMinutesDown": {
-      "2024-02-16": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mes-inventory",
@@ -165,19 +161,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mes.handymes.com.ico",
     "slug": "mes-inventory",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 182,
     "timeWeek": 183,
     "timeMonth": 180,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2024-02-16": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "mes-customer",
@@ -185,18 +179,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mes.handymes.com.ico",
     "slug": "mes-customer",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 179,
     "timeWeek": 183,
     "timeMonth": 180,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2024-02-16": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
