@@ -104,19 +104,19 @@
     "url": "http://mes.handymes.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mes.handymes.com.ico",
     "slug": "mes-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 381,
-    "timeWeek": 415,
-    "timeMonth": 405,
-    "timeYear": 392,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 391,
+    "timeDay": 347,
+    "timeWeek": 399,
+    "timeMonth": 401,
+    "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-02-16": 0
+      "2024-02-16": 12
     }
   },
   {
