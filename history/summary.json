@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 760,
-    "timeDay": 650,
-    "timeWeek": 747,
-    "timeMonth": 764,
-    "timeYear": 760,
+    "time": 759,
+    "timeDay": 619,
+    "timeWeek": 717,
+    "timeMonth": 757,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2023-11-17": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 775,
-    "timeDay": 617,
-    "timeWeek": 759,
-    "timeMonth": 765,
-    "timeYear": 775,
+    "time": 773,
+    "timeDay": 585,
+    "timeWeek": 731,
+    "timeMonth": 756,
+    "timeYear": 773,
     "dailyMinutesDown": {
       "2023-11-17": 27
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 759,
-    "timeDay": 645,
-    "timeWeek": 753,
-    "timeMonth": 771,
-    "timeYear": 759,
+    "time": 758,
+    "timeDay": 604,
+    "timeWeek": 726,
+    "timeMonth": 766,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2023-11-17": 27
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 751,
-    "timeDay": 558,
-    "timeWeek": 731,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "time": 750,
+    "timeDay": 593,
+    "timeWeek": 709,
+    "timeMonth": 742,
+    "timeYear": 750,
     "dailyMinutesDown": {
       "2023-11-17": 27
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 748,
-    "timeDay": 592,
-    "timeWeek": 734,
-    "timeMonth": 742,
-    "timeYear": 748,
+    "time": 746,
+    "timeDay": 556,
+    "timeWeek": 703,
+    "timeMonth": 735,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2023-11-17": 27
     }
@@ -105,19 +105,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mes.handymes.com.ico",
     "slug": "mes-frontend",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 391,
-    "timeDay": 347,
-    "timeWeek": 399,
-    "timeMonth": 401,
-    "timeYear": 391,
-    "dailyMinutesDown": {
-      "2024-02-16": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 390,
+    "timeDay": 323,
+    "timeWeek": 380,
+    "timeMonth": 395,
+    "timeYear": 390,
+    "dailyMinutesDown": {}
   },
   {
     "name": "mes-sales",
@@ -131,9 +129,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 182,
-    "timeWeek": 183,
-    "timeMonth": 179,
+    "timeDay": 180,
+    "timeWeek": 177,
+    "timeMonth": 177,
     "timeYear": 177,
     "dailyMinutesDown": {}
   },
@@ -148,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 182,
-    "timeDay": 184,
-    "timeWeek": 186,
-    "timeMonth": 183,
-    "timeYear": 182,
+    "time": 181,
+    "timeDay": 181,
+    "timeWeek": 180,
+    "timeMonth": 182,
+    "timeYear": 181,
     "dailyMinutesDown": {}
   },
   {
@@ -166,11 +164,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 182,
-    "timeWeek": 183,
-    "timeMonth": 180,
-    "timeYear": 178,
+    "time": 177,
+    "timeDay": 180,
+    "timeWeek": 177,
+    "timeMonth": 179,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -185,9 +183,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 179,
-    "timeWeek": 183,
-    "timeMonth": 180,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 179,
     "timeYear": 178,
     "dailyMinutesDown": {}
   }
